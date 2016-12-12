@@ -1,0 +1,8 @@
+name: "optimal-weights"
+navbar:
+  title: "Optimal Weights"
+  left:
+   - text: "Home"
+     href: index.html
+   - text: "About"
+     href: about.html
